@@ -1,6 +1,7 @@
 h1 {
 	font-family: 'Rock Salt', cursive; 
 	color: #FC4A1A; 
+	font-size: 120%;
 	text-align: center; 
 }
 
@@ -14,5 +15,5 @@ ul {
 
 body {
 	background-color: #4ABDAC; 
-	font-color: #FFFFFF; 
+	color: #FFFFFF; 
 }
