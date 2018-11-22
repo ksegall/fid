@@ -9,7 +9,7 @@ p {
 
 h1 {
 	font-family: ‘Rock Salt’, cursive; 
-	font-color: #FC4A1A; 
+	font-color: #FC4A1A !important; 
 	text-align: center; 
 }
 
