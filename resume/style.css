@@ -1,13 +1,14 @@
 h1 {
 	font-family: 'Rock Salt', cursive; 
 	color: #ff0000; 
-	font-size: 250%;
+	font-size: 2.5em;
 	text-align: center; 
 }
 
 h2 {
 	font-family: 'Averia Serif Libre', cursive;
 	color: #ff0000; 
+	font-size: 1.875em; 
 }
 
 ul {
