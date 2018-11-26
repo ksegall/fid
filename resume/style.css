@@ -12,11 +12,8 @@ h2 {
 }
 
 h4 {
+	font-family: 'Kaushan Script'	
 	font-size: 1.225em; 
-}
-
-#artistic {
-	font-family: 'Fredericka the Great' cursive;
 }
 
 ul {
@@ -29,10 +26,8 @@ ul {
 }
 
 body {
-	background-color: #89cff0;
-	
+	background-color: #89cff0;	
 }
-
 
 .fa {
     padding: 20px;
